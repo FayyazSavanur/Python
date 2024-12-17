@@ -1,2 +1,6 @@
-Hello magam 
-i am a pyhton programmer 
+Hello world!
+this is a new line
+Hello fayyaz!
+this is not overwrittingFirst line
+Second line
+Third line
